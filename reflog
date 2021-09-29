@@ -1,0 +1,38 @@
+48546ba HEAD@{0}: rebase (finish): returning to refs/heads/master
+48546ba HEAD@{1}: rebase (start): checkout develop
+48546ba HEAD@{2}: rebase (continue) (finish): returning to refs/heads/develop
+48546ba HEAD@{3}: rebase: fast-forward
+c7a1275 HEAD@{4}: rebase (start): checkout HEAD~3
+7b678bf HEAD@{5}: rebase (abort): updating HEAD
+c7a1275 HEAD@{6}: rebase (start): checkout HEAD~3
+7b678bf HEAD@{7}: rebase (abort): updating HEAD
+c7a1275 HEAD@{8}: rebase (start): checkout HEAD~3
+7b678bf HEAD@{9}: rebase (abort): updating HEAD
+c7a1275 HEAD@{10}: rebase (start): checkout HEAD~3
+7b678bf HEAD@{11}: rebase (abort): updating HEAD
+395ab76 HEAD@{12}: rebase (pick): Add b.txt [Updated]
+170eeff HEAD@{13}: rebase (pick): Add a.txt file
+7919240 HEAD@{14}: rebase (pick): Add link to Find the outlier solution
+4d10062 HEAD@{15}: rebase (pick): Implement Find the outlier task
+af29728 HEAD@{16}: rebase (pick): Create README.md
+87b98c6 HEAD@{17}: rebase (start): checkout HEAD~6
+7b678bf HEAD@{18}: merge feature2: Merge made by the 'recursive' strategy.
+838f3f0 HEAD@{19}: commit (merge): Merge branch 'feature1' into develop
+48546ba HEAD@{20}: checkout: moving from master to develop
+c7a1275 HEAD@{21}: checkout: moving from feature2 to master
+e33a237 HEAD@{22}: commit: Add b.txt file [Edited with reset]
+48546ba HEAD@{23}: reset: moving to HEAD^
+b9fdef1 HEAD@{24}: commit: Add b.txt file
+48546ba HEAD@{25}: checkout: moving from feature1 to feature2
+6c21b1c HEAD@{26}: commit (amend): Add b.txt [Updated]
+1caa824 HEAD@{27}: commit: Add b.txt file
+c7a1275 HEAD@{28}: checkout: moving from develop to feature1
+48546ba HEAD@{29}: commit: Add a.txt file
+c7a1275 HEAD@{30}: checkout: moving from feature1 to develop
+c7a1275 HEAD@{31}: checkout: moving from develop to feature1
+c7a1275 HEAD@{32}: checkout: moving from master to develop
+c7a1275 HEAD@{33}: commit: Add link to Find the outlier solution
+657168d HEAD@{34}: commit: Implement Find the outlier task
+218a034 HEAD@{35}: merge origin/master: Merge made by the 'recursive' strategy.
+87b98c6 HEAD@{36}: commit: Add test cases for Digital root task
+81e956c HEAD@{37}: commit (initial): Implement solutions for Digital root task
