@@ -36,7 +36,11 @@ class TestDigitalRoot(unittest.TestCase):
     def setUp(self) -> None:
         self.test_data = {
             1: 1,
+            16: 7,
+            942: 6,
             2352: 3,
+            132189: 6,
+            493193: 2,
             999999: 9,
             257520643: 7
         }
