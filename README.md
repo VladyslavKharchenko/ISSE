@@ -8,7 +8,7 @@ Given n, take the sum of the digits of n. If that value has more than one digit,
 - 132189 --> 1 + 3 + 2 + 1 + 8 + 9 = 24 --> 2 + 4 = 6
 - 493193 --> 4 + 9 + 3 + 1 + 9 + 3 = 29 --> 2 + 9 = 11 --> 1 + 1 = 2
 ---
-### Find the outlier
+### [Find the outlier](https://github.com/VladyslavKharchenko/ISSE/blob/master/outlier.py)
 You are given an array (which will have a length of at least 3 but could be very large) containing integers. The array is either entirely composed of odd integers or entirely of even integers except for a single integer N. Write a method that takes the array as an argument and returns this "outlier" N.
 #### Examples:
 - [2, 4, 0, 100, 4, 11, 2602, 36]
