@@ -15,3 +15,17 @@ You are given an array (which will have a length of at least 3 but could be very
   - Should return: 11 (the only odd number)
 - [160, 3, 1719, 19, 11, 13, -21]
   - Should return: 160 (the only even number)
+---
+### [GIT](https://github.com/VladyslavKharchenko/ISSE/blob/master/reflog)
+1. Init repo, create branch master
+2. Switch to the develop branch
+3. Create file a.txt
+4. Commit file a.txt
+5. Switch to branch feature1
+6. Create file b.txt, commit, amend commit where you change the message
+7. Switch to branch feature2 created from develop
+8. Create file d.txt, commit, reset it so that you could rename your commit
+9. Merge feature1 and feature2 into develop using fast-forward
+10. Squash all the commits in develop using interactive rebase
+11. Rebase develop into master
+12. Save FULL reflog to any source and send it for verification
